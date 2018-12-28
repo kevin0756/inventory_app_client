@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component:  it should submit form values 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3
+    className="alignCentre"
+  />
+  <h4>
+    Edit Product Details
+  </h4>
+  <div
+    className="shareholder"
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+      value="sample"
+    />
+  </div>
+  <button
+    className="small alignRight"
+    onClick={[Function]}
+  >
+    Back
+  </button>
+  <button>
+    Submit
+  </button>
+</form>
+`;
+
+exports[`Component:  should match its snapshot 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3
+    className="alignCentre"
+  >
+    
+  </h3>
+  <h4>
+    Edit Product Details
+  </h4>
+  <div
+    className="shareholder"
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+  </div>
+  <button
+    className="small alignRight"
+    onClick={[Function]}
+  >
+    Back
+  </button>
+  <button>
+    Submit
+  </button>
+</form>
+`;
+
+exports[`Component: App should match its snapshot 1`] = `
+<div>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Product Name
+        </th>
+        <th>
+          Edit
+        </th>
+        <th>
+          Delete
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    Add New Product
+  </button>
+</div>
+`;
+
+exports[`Component: EditProduct should match its snapshot 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3
+    className="alignCentre"
+  >
+    
+  </h3>
+  <h4>
+    Edit Product Details
+  </h4>
+  <div
+    className="shareholder"
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+  </div>
+  <button
+    className="small alignRight"
+    onClick={[Function]}
+  >
+    Back
+  </button>
+  <button>
+    Submit
+  </button>
+</form>
+`;
+
+exports[`Component: IncorporationForm should match its snapshot 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3
+    className="alignCentre"
+  >
+    Data Submitted Successfully
+  </h3>
+  <h4>
+    Products
+  </h4>
+  <div
+    className="shareholder"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Product #1"
+      type="text"
+      value=""
+    />
+    <button
+      className="small"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+  </div>
+  <button
+    className="small"
+    onClick={[Function]}
+    type="button"
+  >
+    Add Product
+  </button>
+  <button
+    className="small alignRight"
+    onClick={[Function]}
+  >
+    Back
+  </button>
+  <button>
+    Submit
+  </button>
+</form>
+`;
+
+exports[`Component: IncorporationForm should submit form values on submit 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3
+    className="alignCentre"
+  >
+    Data Submitted Successfully
+  </h3>
+  <h4>
+    Products
+  </h4>
+  <div
+    className="shareholder"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Product #1"
+      type="text"
+      value="New Product"
+    />
+    <button
+      className="small"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+  </div>
+  <button
+    className="small"
+    onClick={[Function]}
+    type="button"
+  >
+    Add Product
+  </button>
+  <button
+    className="small alignRight"
+    onClick={[Function]}
+  >
+    Back
+  </button>
+  <button>
+    Submit
+  </button>
+</form>
+`;
